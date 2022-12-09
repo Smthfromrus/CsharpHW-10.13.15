@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\bin\Debug\net6.0\CsharpHW-10.13.15.exe
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\bin\Debug\net6.0\CsharpHW-10.13.15.deps.json
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\bin\Debug\net6.0\CsharpHW-10.13.15.runtimeconfig.json
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\bin\Debug\net6.0\CsharpHW-10.13.15.dll
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\bin\Debug\net6.0\CsharpHW-10.13.15.pdb
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.AssemblyInfo.cs
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.dll
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\refint\CsharpHW-10.13.15.dll
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.pdb
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\CsharpHW-10.13.15.genruntimeconfig.cache
+C:\Users\admin\Desktop\10,13.15\CsharpHW-10.13.15\obj\Debug\net6.0\ref\CsharpHW-10.13.15.dll
